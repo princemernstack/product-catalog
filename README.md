@@ -8,8 +8,8 @@ To run the Product Catalog Web App locally, follow the steps below:
 
 1. Clone the repository:
    ```
-   git clone <repository_url>
-   cd product-catalog-web-app
+   git clone https://github.com/princemernstack/product-catalog
+   cd product-catalog
    ```
 
 2. Install dependencies:
@@ -59,7 +59,3 @@ If you would like to contribute to this project, feel free to open a pull reques
 
 ## License
 This project is licensed under the MIT License. You can find the license information in the `LICENSE` file.
-
----
-
-Please make sure to update `<repository_url>` with the actual URL of your repository before including this README file in your project. The README file will provide a quick overview of your project's functionalities, installation instructions, and dependencies, helping other developers understand and contribute to your project effectively. Good luck with your Product Catalog Web App!
